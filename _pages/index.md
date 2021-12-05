@@ -5,8 +5,8 @@ id: home
 permalink: /
 ---
 
-# Welcome! 🌱
-
+# Welcome to my Digital Garden 🌱
+Here, you will find a collection of my notes on a variety of topics. Click through links, read, and see where you end up.
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
   Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
 </p>
