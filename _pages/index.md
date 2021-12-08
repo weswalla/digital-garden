@@ -4,19 +4,14 @@ title: Home
 id: home
 permalink: /
 ---
+# Wesley Finck
+Hey there, welcome to my site. Currently, I'm a software developer developing [Holochain](https://www.holochain.org/) applications with [Sprillow](https://sprillow.com).
+My interests span many subjects, but at the moment I am most interested in distributed, interoperable communication and collaboration software systems.
+I am also very passionate about understanding and teaching complex topics and am always exploring creative forms of expression to help with these pursuits.
+Find more of my work at:
+- [my medium profile](https://wesleyfinck.medium.com/)
+- [my YouTube channel](https://www.youtube.com/channel/UCPMZ2h9TqvfWIAQyFGfPyEQ)
 
-# Welcome to my Digital Garden 🌱
-Here, you will find a collection of my notes on a variety of topics. Click through links, read, and see where you end up.
-<p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
-</p>
-
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
-
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll). If you need any help, my [DMs are open on Twitter (@vaillancourtmax)](https://twitter.com/vaillancourtmax). 👋
-
-<style>
-  .wrapper {
-    max-width: 46em;
-  }
-</style>
+# About this Site
+This site is under active development and may be a bit clunky.
+Most of what there is to explore is my [[digital garden]], which is where I would direct your attention :)
