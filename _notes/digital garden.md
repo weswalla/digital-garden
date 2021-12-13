@@ -7,6 +7,5 @@ A digital garden is effectively an interconnected set of publicly available note
 My digital garden consists of a subset of my [[zettelkasten]] notes, which I write using [[Obsidian]]. 
 
 # main topic clusters
-Here are a few topic clusters which I think a lot about. They can serve a good starting points to explore my digital garden:
-- personal knowledge management and tools for thought
-- game B and regenerative cultures
+Here are a few topic clusters which I think and write about. They can serve a good starting points to explore my digital garden:
+- [[attention economy]]
