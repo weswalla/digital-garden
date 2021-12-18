@@ -1,4 +1,5 @@
 ---
+title: atomic, synthesis-oriented writing counteracts the perverse incentives of the attention economy
 ---
 [[2021-12-13]]
 #attention-economy #writing #zettelkasten #note-taking 
