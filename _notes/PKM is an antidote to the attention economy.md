@@ -6,7 +6,7 @@
 ---
 A negative result of the attention economy is lowered attention spans, memory, and other important cognitive abilities. Check out the Center for Humane Technology's [ledger of harm](https://ledger.humanetech.com/#attention-cognition), a compilation of research outlining the negative effects of the attention economy.
 
-PKM, including spaced repetition and zettelkasten, train's people to strengthen their memory and their ability to focus and avoid distractions. By helping someone overcome paralysis by over-stimulation, PKM gives people the tools to use the vast amount of digital information as a ocean of insight and wisdom to draw from. The internet becomes a vast basin of bits of information waiting to be synthesized and connected in novel ways and uniquely expressed. Perhaps this could eventually turn into [[semantic graphs as a way to annotate and index our collective thinking]].
+PKM, including spaced repetition and zettelkasten, trains people to strengthen their memory and their ability to focus and avoid distractions. By helping someone overcome paralysis by over-stimulation, PKM gives people the tools to use the vast amount of digital information as a ocean of insight and wisdom to draw from. The internet becomes a vast basin of bits of information waiting to be synthesized and connected in novel ways and uniquely expressed. Perhaps this could eventually turn into [[semantic graphs as a way to annotate and index our collective thinking]].
 
 PKM also encourages self-awareness ([[zettelkasten enables one to have a more in depth relationship with their past, present, and future self]]), which is key to first recognizing that the extractive attention economy may be having negative effects on oneself in the first place.
 
