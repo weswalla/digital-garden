@@ -1,6 +1,7 @@
 ---
 type: synthesis
 status: published
+title: networked note-taking and spaced-repetition software are scalable sense-making tools to help address the increasing knowledge complexity of the 21st century
 ---
 [[2021-05-24]]
 #note-taking 
