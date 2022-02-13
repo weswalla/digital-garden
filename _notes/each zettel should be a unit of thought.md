@@ -1,3 +1,7 @@
+---
+type: observation
+status:
+---
 [[2020-12-25]]
 #zettelkasten 
 
