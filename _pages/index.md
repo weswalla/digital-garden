@@ -21,8 +21,6 @@ I enjoy reading, writing, filmmaking and generally communicating challenging top
 I am primarily using this site as a space to share my writing and research on various topics, which is structured as a digital garden. You can explore my [[digital garden]] by following the link and navigating my notes as a graph.
 
 # contact me
-[wesleyfinck@gmail.com](mailto:wesleyfinck@gmail.com)
-
-+1 (604) 698-6484
-
-[LinkedIn](https://www.linkedin.com/in/wesleyfinck/)
+- wesleyfinck at gmail dot com
+- [LinkedIn](https://www.linkedin.com/in/wesleyfinck/)
+- [twitter](https://twitter.com/wesleyfinck)
