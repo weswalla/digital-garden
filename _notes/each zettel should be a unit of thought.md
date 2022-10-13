@@ -1,10 +1,5 @@
----
-type: observation
-status:
----
 [[2020-12-25]]
 #zettelkasten 
-
 
 ---
 For any zettelkasten to compound in value over time, each zettel needs to be able to contribute to a train thought productively and fluidly. These zettels need to be the building blocks of longer trains of thought, because  [[long-form arguments are just strings of evergreen notes]].

@@ -1,3 +1,9 @@
+---
+type:
+status:
+title: adding notes to outline documents often can lead to substantially-complete projects
+---
+
 [[2021-02-08]]
 #note-taking 
 

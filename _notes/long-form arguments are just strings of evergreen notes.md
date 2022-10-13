@@ -1,6 +1,11 @@
+---
+type:
+status:
+title: long-form arguments are just strings of evergreen notes
+---
+
 [[2020-12-25]]
 #zettelkasten 
-
 
 ---
 By sticking to the principle of [[each zettel should be a unit of thought]], constructing long-form arguments should be much less challenging. Much of the effort involves searching through one's zettelkasten and collecting all the required unit of thoughts that build the argument.
