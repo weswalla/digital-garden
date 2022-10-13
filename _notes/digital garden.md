@@ -1,7 +1,7 @@
 ---
 title: digital garden
 ---
-A digital garden is effectively an interconnected set of publicly available notes. You can think of it as a highly personal wiki, except its objective isn't to document and organize information, but rather to support the development of complex trains of thought over long periods of time. In other words, it utilizes the affordances of hypertext to scaffold thinking processes.
+A digital garden is effectively an interconnected set of publicly available notes. You can think of it as a highly personal wiki, except its objective isn't to document and organize information, but rather to support the development of complex trains of thought over long periods of time. In other words, it utilizes the affordances of hypertext to scaffold thinking processes (see: [[long-form arguments are just strings of evergreen notes]])
 
 My digital garden consists of a subset of my [[zettelkasten]] notes, which I write using [[Obsidian]]. 
 
