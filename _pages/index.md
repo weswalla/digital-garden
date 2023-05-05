@@ -17,6 +17,8 @@ I enjoy reading, writing, filmmaking and generally communicating challenging top
 - [YouTube channel](https://www.youtube.com/channel/UCPMZ2h9TqvfWIAQyFGfPyEQ)
 - [[digital garden]]
 
+I also love listening to podcasts and they are one of the main ways I continue to expand my understanding of the world. Checkout a list my favourites here: [[podcasts]].
+
 I am interested in learning, knowledge management & synthesis, collective epistemic processes, sense-making, and the digital tools that can enhance these activities.
 
 # about this site
