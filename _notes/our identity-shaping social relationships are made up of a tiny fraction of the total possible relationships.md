@@ -1,3 +1,6 @@
+---
+title: our identity-shaping social relationships are made up of a tiny fraction of the total possible relationships
+---
 [[2021-11-15]]
 #friends #relationships 
 

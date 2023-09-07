@@ -11,7 +11,7 @@ But, let me explain.
 
 We all know how limited dating profiles are at representing our personalities accurately. This page is my way of adding a 🤌 *pinch of personal spice* 🤌 to my otherwise bland dating profiles.
 
-Over time, I'll add some of my thoughts around dating and relationships. For now, feel free to checkout my [[befriend-me]] page ("is that the friendzone?") or explore some of my crazy thoughts elsewhere on this website ("is this guy okay?").
+Over time, I'll add some of my thoughts around dating and relationships. For now, feel free to checkout my [[befriend me]] page ("is that the friendzone?") or explore some of my crazy thoughts elsewhere on this website ("is this guy okay?").
 
 I can also be found on instagram [@weswalla](https://www.instagram.com/weswalla/) or twitter [@wesleyfinck](https://twitter.com/wesleyfinck).
 
