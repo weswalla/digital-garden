@@ -1,4 +1,7 @@
 # 🔗🌲
+- Wednesday, November 8, 2023
+	- I'll be doing a 5-minute stand-up routine on Wednesday, November 15, along with 7 other Blind Tiger Comedy students - come check it out and get your tickets here: [Blind Tiger Comedy Show: Swirls (LATE SHOW) Tickets, Wed, Nov 15, 2023 at 9:00 PM | Eventbrite](https://www.eventbrite.ca/e/blind-tiger-comedy-show-swirls-late-show-tickets-751446044347?utm_experiment=control_share_listing&aff=ebdsshios)
+	- FYI - for those curious, it's part of Bling Tiger Comedy's stand up 1 course: https://blindtigercomedy.ca/classes#standup1
 - Friday, May 19, 2023
 	- <iframe width="560" height="315" src="https://www.youtube.com/embed/NT9q0S1J5F4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 		- In this video I get interviewed by one of my team members of [Neighbourhoods](https://neighbourhoods.network/), a [Holochain](https://www.holochain.org/) project exploring P2P and distributed software architectures for digital social interactions free of 3rd party manipulation.
