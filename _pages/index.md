@@ -4,20 +4,20 @@ title: Home
 id: home
 permalink: /
 ---
-# about me
-👋 Hey there, welcome to my site. 
+# Biography
+I'm a fullstack developer and entrepreneur working on distributed web applications and knowledge management systems. I've also recently began building an AI-powered note-taking companion app (landing page coming soon), with my co-founder [Rob](https://robhaisfield.com/about), that resurfaces prior notes in contextually relevant ways, helping people leverage their past writing without the overhead of expert-user workflows. This builds on the insights gained from the research project [Scaling Synthesis](https://scalingsynthesis.com/).
 
-## professional
-I'm an independent contractor specializing in [Holochain](https://www.holochain.org/) development and distributed/interoperable application design. I'm currently working with [Sprillow](https://sprillow.com) and [Lightning Rod Labs](https://lightningrodlabs.org/) on a number of projects, including [Acorn](http://acorn.software/), one of the most mature holochain applications, and [hREA](https://hrea.io/), a commons-oriented economic coordination and accounting framework built on Holochain. I'm also interested in exploring new social application protocols and patterns enabled by Holochain's architecture. This mostly includes [Neighbourhoods](https://neighbourhoods.network/), which is building generic tooling for groupware, and [Perspect3vism](https://github.com/perspect3vism/), infrastructure aimed at supporting an [agent-centric, distributed, and interoperable web](https://medium.com/holochain/holochain-reinventing-applications-d2ac1e4f25ef). You can find more of my development work by visiting my [github profile](https://github.com/weswalla/).
+I've also worked extensively with [Holochain](https://www.holochain.org), a distributed application framework offering a new way to build and deploy applications that are scalable, secure, and interoperable. My work with Holochain has been primarily focused on building social sense-making applications and economic coordination systems, including [Coasys](https://coasys.org/), [Neighbourhoods](https://neighbourhoods.network/), and [hREA](https://hrea.io/). Please visit my [github profile](https://github.com/weswalla/) for a full list of the various open-source projects I have contributed to over the years.
 
+Overall, I'm passionate about the future of an open internet and continue to explore the most promising open-source technologies and protocols that can help us get there. If you're interested in collaborating on a project, please reach out via any of the contact methods below.
 
-## personal
+# personal interests
 I enjoy reading, writing, filmmaking and generally communicating challenging topics in accessible ways. You can explore some of my personal work by visiting my:
 - [medium profile](https://wesleyfinck.medium.com/)
 - [YouTube channel](https://www.youtube.com/channel/UCPMZ2h9TqvfWIAQyFGfPyEQ)
 - [[digital garden]]
 
-I also love listening to podcasts and they are one of the main ways I continue to expand my understanding of the world. Checkout a list my favourites here: [[podcasts]].
+I also love listening to podcasts and they are one of the main ways I continue to expand my understanding of the world. Checkout a list of my favourites here: [[podcasts]].
 
 I am interested in learning, knowledge management & synthesis, collective epistemic processes, sense-making, and the digital tools that can enhance these activities.
 
